@@ -1,0 +1,16 @@
+setup.py
+ObjectDetecction/__init__.py
+ObjectDetecction/components/__init__.py
+ObjectDetecction/components/data_ingestion.py
+ObjectDetecction/components/data_validation.py
+ObjectDetecction/components/model_trainer.py
+ObjectDetecction/exception/__init__.py
+ObjectDetecction/logger/__init__.py
+ObjectDetecction/pipeline/__init__.py
+ObjectDetecction/pipeline/training_pipepline.py
+ObjectDetecction/utils/__init__.py
+ObjectDetecction/utils/main_utils.py
+ObjectDetection.egg-info/PKG-INFO
+ObjectDetection.egg-info/SOURCES.txt
+ObjectDetection.egg-info/dependency_links.txt
+ObjectDetection.egg-info/top_level.txt
